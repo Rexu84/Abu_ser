@@ -4,8 +4,8 @@
     "logo": "https://i.imgur.com/nLUMShe.jpg",
     "keywords": ["whatsapp", "userbot", "Abu", "WhatsAsena", "ser", "bot", "ai"],
     "repository": "https://github.com/Rexu84/Abu_ser",
-    "website":   "https://github.com/Afx-Abu/Abu_ser",
-    "success_url": "https://github.com/Afx-Abu/Abu_ser",
+    "website":   "https://github.com/Rexu84/Abu_ser",
+    "success_url": "https://github.com/Rexu84/Abu_ser",
     "stack": "container",
     "env": {
         "ABU_QR_CODE": {
